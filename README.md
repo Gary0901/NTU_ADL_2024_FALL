@@ -1,5 +1,5 @@
-# NTU_ADL_2023_Fall
-- This repository contains the homework assignments and final project implementations in NTU 2023 Fall Applied Deep Learning
+# NTU_ADL_2024_Fall
+- This repository contains the homework assignments and final project implementations in NTU 2024 Fall Applied Deep Learning
 - The corresponding README file of each assignment is placed under the assignment folder
 * * *
 
